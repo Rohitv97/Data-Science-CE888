@@ -1,2 +1,2 @@
 # Data-Science-Lab
-All lab works completed
+All Lab files shall be uploaded here every week
